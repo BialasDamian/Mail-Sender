@@ -1,0 +1,9 @@
+1. Install the required libraries by using the following commands:
+      -Copy code:
+          pip install schedule
+      -Copy code:
+          pip install secure-smtplib
+2. Run the Python script.
+3. Provide the required information: sender's email address, password, recipient's email address, email content, subject, and file path (if any).
+4. The program will log in to the sender's email account and initiate the email sending process.
+5. Emails will be sent every two seconds.
